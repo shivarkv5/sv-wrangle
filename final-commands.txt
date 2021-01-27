@@ -1,0 +1,5 @@
+* curl  curl "http://shakespeare.mit.edu/two_gentlemen/full.html" -O "data.txt"
+* grep -c "VALENTINE" data.txt
+* grep -c "PROTEUS" data.txt
+* grep -c "VALENTINE" data.txt > speaker1.txt
+* grep -c "PROTEUS" data.txt > speaker2.txt
