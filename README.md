@@ -13,11 +13,9 @@
 
 4. Who character spoke more number of times in a play?
 
-5. Commands Used
-* curl  curl "http://shakespeare.mit.edu/two_gentlemen/full.html" -O "data.txt"
-* grep -c "VALENTINE" data.txt > speaker1.txt
-* grep -c "PROTEUS" data.txt > speaker2.txt
+5. [Commands Used](https://github.com/srkvodnala/sv-wrangle/blob/main/final-commands.txt)
 
+6. In this play Valentine spoke 157 times and Proteus spoke 161 times
 
 
 
